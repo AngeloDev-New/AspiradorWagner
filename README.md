@@ -23,3 +23,6 @@ Esse tipo de problema é uma variação do **Problema do Caixeiro Viajante (TSP)
 
    ```bash
    pip install pygame
+
+   ![Demostracao](assets/Aspirador.gif)
+
